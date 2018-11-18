@@ -24,7 +24,7 @@
                             </div>
                         @endif
 
-                    You are logged in!
+                    You are logged in! Thank you
                         <form action="/create_new_post" method="post">
                             @csrf
                             Title:<br>
